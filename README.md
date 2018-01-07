@@ -23,7 +23,7 @@ Note that the network defined above is distinct from the *social* network
 consitiuted by Twitter itself. Within the context of this package, Twitter data
 is used as a source of evidence  which can be used to relate individuals in the
 model network together, but in principle additional sources of evidence (e.g.
-publication histories) could also be incorporated as an extention to this work. 
+publication histories) could also be incorporated as an extention to this work.
 
 Details of what constitutes an interaction are given
 [below](#defining-an-interaction).
@@ -69,7 +69,7 @@ holds:
 - It was sent from a handle known to belong to an individual in the model
   network
 - A known handle liked the tweet
-- A known individual retweeted the tweet
+- A known handle retweeted the tweet
 - A known handle is mentioned in the tweet
 - The tweet is in reply to a known handle
 - The tweet contains one of a set of regular expressions identifying the
