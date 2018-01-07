@@ -1,0 +1,9 @@
+{ "people": [
+  { "twitterHandle": "",
+    "regexps": [{"expression": "", "context": ["", ""]}]
+  },
+  { "twitterHandle": "",
+    "regexps": [{"expression": "", "context": null}]
+  }
+]
+}

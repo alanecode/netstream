@@ -19,6 +19,12 @@ A network is defined by:
    of strings
 2. Interactions between people (edges), for a given definition of 'interaction'
 
+Note that the network defined above is distinct from the *social* network
+consitiuted by Twitter itself. Within the context of this package, Twitter data
+is used as a source of evidence  which can be used to relate individuals in the
+model network together, but in principle additional sources of evidence (e.g.
+publication histories) could also be incorporated as an extention to this work. 
+
 Details of what constitutes an interaction are given
 [below](#defining-an-interaction).
 
